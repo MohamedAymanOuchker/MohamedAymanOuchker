@@ -4,7 +4,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BDC5F4&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Ayman;I'm+a+Robotics+Cobotics+Engineer;Be+Welcome!+ツ)
 
-<a href="https://app.daily.dev/ayman21"><img align="right" src="https://api.daily.dev/devcards/730a8558bfbf469e86c3e4c14f7e305a.png?r=s0k" width="200" alt="Ayman Ouchker's Dev Card"/></a>
+<a href="https://app.daily.dev/ayman21"><img align="right" src="https://api.daily.dev/devcards/730a8558bfbf469e86c3e4c14f7e305a.png?r=a22" width="200" alt="Ayman Ouchker's Dev Card"/></a>
 
  ### Hi there, I'm Ayman - [MyWebsite][website] 👋
 
