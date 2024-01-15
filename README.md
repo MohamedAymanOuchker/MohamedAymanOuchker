@@ -11,10 +11,10 @@
 [![Website](https://img.shields.io/website?label=MyWebsite&style=for-the-badge&url=https://mohamedaymanouchker.github.io/my-site/)](https://mohamedaymanouchker.github.io/my-site/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/OuchkerAyman?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=OuchkerAyman)
 
-## I'm a Student and Developer!!
+## I'm an Engineering Student in Robotics and Cobotics & Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Goals: Learn new tools and technologies
+- 🥅 2024 Goals: Learn new tools and technologies
 - ⚡ Fun fact: I love to draw and play coding
 - 📫 How to reach me: ayman.ouchker@outlook.com
 
