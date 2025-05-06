@@ -14,7 +14,7 @@
 ## I'm an Engineering Student in Robotics and Cobotics & Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2024 Goals: Learn new tools and technologies
+- 🥅 2025 Goals: Learn new tools and technologies
 - ⚡ Fun fact: I love to draw and play coding
 - 📫 How to reach me: ayman.ouchker@outlook.com
 
