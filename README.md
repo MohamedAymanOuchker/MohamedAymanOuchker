@@ -14,6 +14,7 @@
 ## I'm an Engineering Student in Robotics and Cobotics & Developer!!
 
 - 🌱 I’m currently learning everything 🤣
+- 🕹️ New: Exploring **Game Development** with Unity
 - 🥅 2025 Goals: Learn new tools and technologies
 - ⚡ Fun fact: I love to draw and play coding
 - 📫 How to reach me: ayman.ouchker@outlook.com
@@ -38,6 +39,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Unity" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/unity.svg" />
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
@@ -53,6 +55,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=flat&logo=ros&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000.svg?style=flat&logo=Unity&logoColor=white)
 
 <br />
 <br />
@@ -81,6 +84,7 @@
   ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%1c1917)
+  ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 
 ### Databases
