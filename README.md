@@ -27,7 +27,7 @@ I enjoy building systems that combine **software, electronics, and artificial in
 
 [![Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge)](https://mohamedaymanouchker.github.io/my-site/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayman-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohamed-ayman-ouchker/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/OuchkerAyman)
+[![X](https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x)](https://twitter.com/OuchkerAyman)
 
 📧 Email: **ayman.ouchker@outlook.com**
 
@@ -74,14 +74,20 @@ I enjoy building systems that combine **software, electronics, and artificial in
 ### 🤖 Educational Robotics Platform
 Interactive robot designed to teach children robotics programming using a mobile app.
 
+🔗 [Repository](https://github.com/MohamedAymanOuchker/educational-robot)
+
 ### 🚗 Driver Drowsiness Detection
 AI-based real-time detection system using:
 - Computer vision
 - CNN models
 - Eye Aspect Ratio (EAR) analysis
 
+🔗 [More on my portfolio](https://mohamedaymanouchker.github.io/my-site/)
+
 ### 🌱 AgriBot
 Autonomous agricultural robot designed for crop planting and navigation.
+
+🔗 [More on my portfolio](https://mohamedaymanouchker.github.io/my-site/)
 
 ---
 
